@@ -1,2 +1,4 @@
 # tinaquillo-dev.github.io
-Sitio web oficial de Tinaquillo Dev
+## Repositorio del sitio web de la comunidad Tinaquillo dev
+
+Si eres de tinaquillo y te gustan las tecnologias no dudes en unirtenos!
